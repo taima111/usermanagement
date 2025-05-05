@@ -1,6 +1,6 @@
-package com.bankassurance.backend.token;
+package com.bankassurance.backend.repository.entity;
 
-import com.bankassurance.backend.repository.entity.User;
+import com.bankassurance.backend.models.enums.TokenType;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

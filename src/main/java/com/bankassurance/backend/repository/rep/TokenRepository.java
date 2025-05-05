@@ -1,5 +1,6 @@
-package com.bankassurance.backend.token;
+package com.bankassurance.backend.repository.rep;
 
+import com.bankassurance.backend.repository.entity.Token;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
